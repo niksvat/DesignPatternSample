@@ -32,6 +32,8 @@ Google/Bing
 Total website links 
 -------------------------------
 1 Billion active links
+1 Link = 500 KB data
+
 
 
 
